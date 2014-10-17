@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ydd:home|Door43 (ydd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ydd|d43-ydd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ydd/archive/master.zip|d43-ydd.zip]]
+
+**Recent Changes**
+{{changes>ns = ydd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ydd|Ethnologue data]]
+
